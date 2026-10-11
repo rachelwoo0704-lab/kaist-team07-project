@@ -1,6 +1,6 @@
 # Premortem — 양진석
 
-Team: 7
+Team: #07 / Wine not?
 
 Date: 2026-10-04
 
