@@ -1,4 +1,4 @@
-# KAIST PMBA — Team 4
+# KAIST PMBA — Team 7
 
 2026 Fall 팀 프로젝트와 상담 문서를 관리하는 저장소입니다. 현재 와인앱 관련 기존 자료를 정리하고 있으며, 최종 주제는 검토 중입니다.
 
@@ -34,7 +34,7 @@
 
 - 개인 페이지: https://wlstjr5817-cyber.github.io/
 - 개인 페이지 등록 PR: https://github.com/yijisoo/kaist.biz.69911.projects/pull/8
-- 팀 저장소: https://github.com/wlstjr5817-cyber/kaist-team04-project
-- 팀 프로젝트 등록 PR: https://github.com/yijisoo/kaist.biz.69911.projects/pull/9 (`2026-fall/PROJECTS.md` 4조 행)
+- 팀 저장소: https://github.com/wlstjr5817-cyber/kaist-team07-project
+- 팀 프로젝트 등록 PR: https://github.com/yijisoo/kaist.biz.69911.projects/pull/9 (`2026-fall/PROJECTS.md` 7조 행)
 
 현재 저장소는 준비 중이며, HW5 전체 완료를 의미하지 않습니다.
