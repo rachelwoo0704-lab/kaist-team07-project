@@ -1,6 +1,6 @@
 # PROJECT.md
 
-Team: 4 / 와인앱 팀(가칭·최종 주제 검토 중)
+Team: 7 / 와인앱 팀(가칭·최종 주제 검토 중)
 Members: 4명 (팀원 명단 공개 확인 후 추가)
 Original draft: 2026-09-25
 Uploaded for version tracking: 2026-10-11
@@ -38,4 +38,4 @@ Uploaded for version tracking: 2026-10-11
 | Date | What changed and why |
 |---|---|
 | 2026-09-25 | Draft for consultation based on the team launch playbook; user evidence is not yet collected. |
-| 2026-10-11 | 기존 초안을 우선 보관하고 팀 번호를 4로 반영함. 상담 결과와 최종 주제 확인 후 내용 수정 예정. |
+| 2026-10-11 | 기존 초안을 우선 보관하고 팀 번호를 7로 반영함. 상담 결과와 최종 주제 확인 후 내용 수정 예정. |
