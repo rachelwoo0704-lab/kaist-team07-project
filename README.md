@@ -6,8 +6,8 @@
 
 | 경로 | 내용 | 현재 상태 |
 |---|---|---|
-| `docs/PROJECT.md` | 프로젝트 설명 | 기존 상담 파일 수령 후 추가 예정 |
-| `docs/QUESTIONS.md` | 상담 질문 및 상담 이후 수정 내용 | 기존 상담 파일 수령 후 추가 예정 |
+| [docs/PROJECT.md](docs/PROJECT.md) | 프로젝트 설명 | 9월 25일 기존 초안 보관·상담 이후 수정 확인 필요 |
+| [docs/QUESTIONS.md](docs/QUESTIONS.md) | 상담 질문 및 상담 이후 수정 내용 | 9월 25일 기존 초안 보관·상담 결과 추가 필요 |
 | [docs/premortem/양진석.md](docs/premortem/양진석.md) | 양진석 개인 프리모텀 | 본인 계정으로 커밋 |
 | `docs/premortem/각자이름.md` | 나머지 팀원 개인 프리모텀 | 각자 본인 계정으로 추가 필요 |
 | `docs/PREMORTEM.md` | 팀 종합 프리모텀 | 모든 개인 파일 이후 저장소 소유자가 커밋 예정 |
@@ -35,6 +35,6 @@
 - 개인 페이지: https://wlstjr5817-cyber.github.io/
 - 개인 페이지 등록 PR: https://github.com/yijisoo/kaist.biz.69911.projects/pull/8
 - 팀 저장소: https://github.com/wlstjr5817-cyber/kaist-team04-project
-- 팀 프로젝트 등록 대상: 수업 저장소의 `2026-fall/PROJECTS.md` 4조 행
+- 팀 프로젝트 등록 PR: https://github.com/yijisoo/kaist.biz.69911.projects/pull/9 (`2026-fall/PROJECTS.md` 4조 행)
 
 현재 저장소는 준비 중이며, HW5 전체 완료를 의미하지 않습니다.
