@@ -1,7 +1,7 @@
 # Premortem — 류대훈
 
 Team: #07 and wine not?
-Written on: 2026-10-04
+Written on: 2026-10-04 (10-15 commit)
 I wrote this before reading anyone else's list: yes
 
 Copy this file, rename it after yourself (for example `gildong.md`), and fill it in alone.
