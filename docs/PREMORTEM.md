@@ -6,7 +6,15 @@ Members: 김한솜, 우승현, 류대훈, 양진석
 
 Merged on: 2026-10-04
 
-Last updated: 2026-10-04
+Last updated: 2026-10-15
+
+**현재 적용 범위 — 기존 와인 기획의 프리모텀**
+
+교수님은 와인의 종류가 매우 많고, 우리가 구상한 서비스를 만들려면 인터넷에 흩어진 데이터를 광범위하게 모아야 하므로 데이터 수집에 시간과 에너지가 많이 들 수 있다고 피드백했습니다. 이는 기존 목록의 외부 데이터 확보와 개발 범위 위험을 재검토할 근거가 되었습니다.
+
+2026년 10월 10일 팀 회의에서 서울시가 제공하는 실시간 공공데이터를 활용해 주제를 다시 정해 보기로 했습니다. 구체적인 서비스 주제, 대상 사용자, 사용할 데이터는 아직 확정하지 않았습니다.
+
+아래 위험 목록과 대응 일정은 기존 와인 기획을 기준으로 작성한 기록입니다. 새 주제에 대한 개인 프리모텀 작성·취합이 완료됐다는 뜻이 아닙니다. 새 주제가 정해지면 개인별로 위험을 재검토하고, 각자의 계정으로 커밋한 내용이 모두 반영된 뒤 저장소 소유자가 종합 문서를 다시 검토·커밋해야 합니다. 이번 수정은 상담 피드백과 방향 변경 상태를 기록한 것입니다.
 
 > \*\*Order matters, and here it is the entire method.\*\*
 > Every member first writes their own list in `docs/premortem/<name>.md`, alone.
@@ -124,7 +132,7 @@ A premortem that analyzes a product you no longer build is worse than none, beca
 |Date|What changed and why|
 |-|-|
 |2026-10-05|Draft for consultation|
-|\[YYYY-MM-DD]|Revised after consultation on \[date]: \[what changed]|
+|2026-10-15|교수 상담의 데이터 수집 부담 피드백과 10월 10일 팀 회의 결정을 반영. 기존 와인 기획의 위험 목록임을 명시하고, 서울시 실시간 공공데이터를 활용할 새 주제가 확정되면 개인별 재검토와 종합 갱신이 필요함을 기록함. 이번 수정은 모든 개인 커밋 이후의 최종 종합 갱신으로 표시하지 않음.|
 
 \---
 
