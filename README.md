@@ -1,27 +1,37 @@
-Wine not?
-Team 07 · KAIST BIZ.69911 AI-Driven Business Evolution: Strategy and Practice, Fall 2026
+# Wine not?
 
-#	Project	Description	Live
-07	Wine not?	한국의 와인 초보가 마신 와인을 기록하며 취향을 이해하고 다음 와인을 고르도록 돕는 서비스 기획	—
-What we are building
+**Team 07 · KAIST BIZ.69911 AI-Driven Business Evolution: Strategy and Practice, Fall 2026**
+
+| **#** | **Project** | **Description** | **Live** |
+| ----- | ----------- | --------------- | -------- |
+| 07 | Wine not? | 한국의 와인 초보가 마신 와인을 기록하며 취향을 이해하고 다음 와인을 고르도록 돕는 서비스 기획 | — |
+
+## What we are building
+
 마신 와인의 기록을 바탕으로 자신의 취향을 알아가고, 다음 와인을 선택하는 데 도움을 주는 서비스를 기획하고 있습니다.
 
 와인을 마신 경험이 사진이나 막연한 인상으로만 남아 다음 선택에 활용되지 않는 문제에 주목합니다. 국내에서 실제로 구매할 수 있는 와인을 중심으로, 익숙하지 않은 전문 용어를 따로 공부하지 않아도 자신의 경험과 취향을 연결할 수 있는 방향을 검토하고 있습니다.
 
-Who it is for
+## Who it is for
+
 와인에 관심은 있지만 혼자 와인을 고르기는 어려운 국내 와인 초보를 대상으로 합니다.
 
-이전에 맛있게 마신 와인의 이름이나 좋았던 이유가 잘 기억나지 않는 사람
-와인의 맛을 설명하는 표현이 낯설어 자신의 취향을 말하기 어려운 사람
-매장에서 와인을 고를 때 가격이나 점원의 추천에 주로 의존하는 사람
-Current status
+- 이전에 맛있게 마신 와인의 이름이나 좋았던 이유가 잘 기억나지 않는 사람
+- 와인의 맛을 설명하는 표현이 낯설어 자신의 취향을 말하기 어려운 사람
+- 매장에서 와인을 고를 때 가격이나 점원의 추천에 주로 의존하는 사람
+
+## Current status
+
 현재는 서비스 기획 단계입니다. 교수님 상담 이후, 팀 내에서 주제 변경 가능성과 구체적인 대안을 논의하고 있습니다. 새로운 주제는 아직 확정되지 않았습니다.
 
-아래 문서는 현재의 Wine not? 기획을 기준으로 작성한 자료입니다. 향후 방향이 확정되면 프로젝트 기획, 질문, 프리모텀과 수정 이력을 함께 갱신할 예정입니다.
+아래 문서는 현재의 **Wine not?** 기획을 기준으로 작성한 자료입니다. 향후 방향이 확정되면 프로젝트 기획, 질문, 프리모텀과 수정 이력을 함께 갱신할 예정입니다.
 
-Team
-Name	GitHub
-김한솜	cottoneee10
-양진석	wlstjr5817-cyber
-우승현	—
-류대훈	daehoon-ryu
+## Team
+
+| **Name** | **GitHub** |
+| -------- | ---------- |
+| 김한솜 | [cottoneee10](https://github.com/cottoneee10) |
+| 양진석 | [wlstjr5817-cyber](https://github.com/wlstjr5817-cyber) |
+| 우승현 | — |
+| 류대훈 | [daehoon-ryu](https://github.com/daehoon-ryu) |
+
