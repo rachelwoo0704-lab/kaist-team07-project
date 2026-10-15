@@ -54,3 +54,4 @@ Three rules:
 * **Past tense, specific.** "We never got one user outside our own team", not "user acquisition may be difficult".
 * **Not generic.** "Scope creep" and "the team got busy" are true of every failed project ever, so they carry no information. What specifically crept? Who specifically got busy, in which week, because of what?
 * **At least two causes involve the people in this team, and at least one of those is about you.** Skill gaps, who actually understands the code the AI wrote, who has a product launch at work in November, who says "sure" in meetings and disappears. If your list is all technical, it is a safe list, not an honest one.
+
