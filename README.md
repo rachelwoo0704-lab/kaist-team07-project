@@ -1,40 +1,48 @@
-# KAIST PMBA — Team 7 · Wine not?
+# Wine not?
 
-한국의 와인 초보가 마신 와인을 기록하면서 자기 취향을 알아가고, 다음 와인을 고를 수 있도록 돕는 서비스 기획입니다.
+**Team 07 · KAIST BIZ.69911 AI-Driven Business Evolution: Strategy and Practice, Fall 2026**
 
-팀원: 김한솜, 양진석, 우승현, 류대훈
+| # | Project | Description | Live |
+|---|---|---|---|
+| 07 | Wine not? | 한국의 와인 초보가 마신 와인을 기록하며 취향을 이해하고 다음 와인을 고르도록 돕는 서비스 기획 | — |
 
-## 이번 제출 자료
+## What we are building
 
-2026-10-11에 팀이 제공한 `team04_init_project.zip` 안의 `team07_init_project` 문서를 반영했습니다. 현재 주제는 **Wine not?**이며, 주제 변경을 검토 중입니다. 새 주제가 확정되면 기획·질문·프리모텀과 수정 이력을 함께 갱신합니다.
+마신 와인의 기록을 바탕으로 자신의 취향을 알아가고, 다음 와인을 선택하는 데 도움을 주는 서비스를 기획하고 있습니다.
 
-원본의 내용과 작성일을 유지했습니다. 팀 번호 미입력 두 곳은 7조로 채우고, 종합 프리모텀의 개인 파일 경로는 ZIP의 실제 파일명에 맞췄습니다. 원본의 상담 후 수정란과 작성자 확인 항목 중 비어 있는 내용은 임의로 채우지 않았습니다.
+와인을 마신 경험이 사진이나 막연한 인상으로만 남아 다음 선택에 활용되지 않는 문제에 주목합니다. 국내에서 실제로 구매할 수 있는 와인을 중심으로, 익숙하지 않은 전문 용어를 따로 공부하지 않아도 자신의 경험과 취향을 연결할 수 있는 방향을 검토하고 있습니다.
 
-| 문서 | 경로 |
+## Who it is for
+
+와인에 관심은 있지만 혼자 와인을 고르기는 어려운 국내 와인 초보를 대상으로 합니다.
+
+- 이전에 맛있게 마신 와인의 이름이나 좋았던 이유가 잘 기억나지 않는 사람
+- 와인의 맛을 설명하는 표현이 낯설어 자신의 취향을 말하기 어려운 사람
+- 매장에서 와인을 고를 때 가격이나 점원의 추천에 주로 의존하는 사람
+
+## Current status
+
+현재는 서비스 기획 단계입니다. 교수님 상담 이후 기존 기획의 큰 틀은 유지하고 있으며, 팀 내에서 주제 변경 가능성과 구체적인 대안을 논의하고 있습니다. 새로운 주제는 아직 확정되지 않았습니다.
+
+아래 문서는 현재의 **Wine not?** 기획을 기준으로 작성한 자료입니다. 향후 방향이 확정되면 프로젝트 기획, 질문, 프리모텀과 수정 이력을 함께 갱신할 예정입니다.
+
+## Team
+
+| Name | GitHub |
 |---|---|
-| 프로젝트 기획 | [docs/PROJECT.md](docs/PROJECT.md) |
-| 상담 질문 | [docs/QUESTIONS.md](docs/QUESTIONS.md) |
-| 김한솜 개인 프리모텀 | [docs/premortem/Premortem_김한솜.md](docs/premortem/Premortem_김한솜.md) |
-| 류대훈 개인 프리모텀 | [docs/premortem/Premortem_류대훈.md](docs/premortem/Premortem_류대훈.md) |
-| 양진석 개인 프리모텀 | [docs/premortem/Premortem_양진석.md](docs/premortem/Premortem_양진석.md) |
-| 우승현 개인 프리모텀 | [docs/premortem/Premortem_우승현.md](docs/premortem/Premortem_우승현.md) |
-| 종합 프리모텀 | [docs/PREMORTEM.md](docs/PREMORTEM.md) |
+| 김한솜 | [cottoneee10](https://github.com/cottoneee10) |
+| 양진석 | [wlstjr5817-cyber](https://github.com/wlstjr5817-cyber) |
+| 우승현 | — |
+| 류대훈 | [daehoon-ryu](https://github.com/daehoon-ryu) |
 
-## HW5 진행 상태와 남은 작업
+## Documents
 
-이번 ZIP 자료의 초기 반영은 저장소 소유자 `wlstjr5817-cyber` 계정으로 진행했습니다. 문서에 적힌 작성자와 GitHub 커밋 계정은 서로 다른 개념이며, 이 업로드만으로 팀원 모두의 개인 커밋 조건이 충족되지는 않습니다.
-
-1. 김한솜·류대훈·우승현은 각자 자신의 GitHub 계정에서 본인 개인 파일을 검토·수정하고 커밋해야 합니다. 우승현 파일의 독립 작성 여부도 본인이 확인해 주세요.
-2. 모든 개인 파일의 본인 계정 커밋이 반영된 후, 저장소 소유자가 종합 프리모텀을 다시 검토·수정하고 커밋해야 합니다. 현재 종합 문서는 제공받은 팀 합본의 초기 보관본입니다.
-3. 상담 이후 변경 내용을 `PROJECT.md`, `QUESTIONS.md`, `PREMORTEM.md`에 반영하고 수정 이력을 작성해야 합니다. 현재 ZIP에는 상담 후 수정란이 비어 있어 이 조건은 완료로 표시하지 않습니다.
-
-팀원은 이 저장소를 Fork한 뒤 자신의 파일을 열어 수정하고 Commit changes → Contribute → Open pull request로 변경을 보낼 수 있습니다. 저장소 소유자는 팀원의 작성 이력이 유지되도록 해당 PR을 병합합니다.
-
-## 제출 링크
-
-- [7조 저장소](https://github.com/wlstjr5817-cyber/kaist-team07-project)
-- [수업 프로젝트 목록 등록 PR #9](https://github.com/yijisoo/kaist.biz.69911.projects/pull/9)
-- [양진석 개인 홈페이지](https://wlstjr5817-cyber.github.io/)
-- [수업 개인 페이지 등록 PR #8](https://github.com/yijisoo/kaist.biz.69911.projects/pull/8)
-
-수업 목록은 교수님이 PR을 병합한 뒤 반영됩니다. 공개 저장소에 후속 자료를 올릴 때에도 개인정보, 회사·고객의 비공개 정보, 비밀번호·API 키·`.env` 파일을 포함하지 않습니다.
+| Document | Description |
+|---|---|
+| [PROJECT.md](docs/PROJECT.md) | 대상 사용자, 해결하려는 문제, 서비스 방향과 재검토 기준 |
+| [QUESTIONS.md](docs/QUESTIONS.md) | 기획 과정에서 확인할 상담 질문 |
+| [PREMORTEM.md](docs/PREMORTEM.md) | 팀 차원에서 정리한 실패 가능성과 대응 방안 |
+| [김한솜 개인 프리모텀](docs/premortem/Premortem_김한솜.md) | 김한솜의 개인 프리모텀 |
+| [양진석 개인 프리모텀](docs/premortem/Premortem_양진석.md) | 양진석의 개인 프리모텀 |
+| [우승현 개인 프리모텀](docs/premortem/Premortem_우승현.md) | 우승현의 개인 프리모텀 |
+| [류대훈 개인 프리모텀](docs/premortem/Premortem_류대훈.md) | 류대훈의 개인 프리모텀 |
