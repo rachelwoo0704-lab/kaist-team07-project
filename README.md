@@ -46,3 +46,36 @@
 | [양진석 개인 프리모텀](docs/premortem/Premortem_양진석.md) | 양진석의 개인 프리모텀 |
 | [우승현 개인 프리모텀](docs/premortem/Premortem_우승현.md) | 우승현의 개인 프리모텀 |
 | [류대훈 개인 프리모텀](docs/premortem/Premortem_류대훈.md) | 류대훈의 개인 프리모텀 |
+
+## HW5 Part 2 완료 기준과 진행 상태
+
+확인일: 2026-10-15 (한국 시간). 아래 상태는 팀 저장소의 `main`에 반영된 파일과 커밋 이력을 기준으로 합니다.
+
+| 완료 기준 | 현재 상태 | 확인 내용 / 남은 작업 |
+|---|---|---|
+| 팀 저장소 하나에 상담 ZIP의 파일을 같은 경로로 보관 | 완료 | `docs/PROJECT.md`, `docs/QUESTIONS.md`, `docs/PREMORTEM.md`, `docs/premortem/Premortem_본인이름.md` 4개가 있습니다. 개인 파일명은 제공된 ZIP의 이름을 유지했습니다. |
+| 상담 이후 수정한 문서 | 미완료 | `QUESTIONS.md`의 **After the consultation** 표와 공동 문서의 **Revision log**에 실제 피드백과 변경 내용을 반영해야 합니다. |
+| 각 팀원이 자기 계정으로 개인 프리모텀 커밋 | 일부 완료 | 양진석·류대훈·김한솜의 본인 계정 커밋은 확인했습니다. 우승현의 본인 계정 커밋은 아직 확인되지 않았습니다. |
+| 모든 개인 커밋 이후 소유자가 종합 프리모텀 커밋 | 대기 | 현재 `docs/PREMORTEM.md`는 10월 11일 초기 업로드본입니다. 개인 커밋이 모두 반영된 뒤 소유자 양진석이 종합 문서를 검토·수정하고 커밋해야 합니다. |
+| 수업 프로젝트 페이지에 7조 행을 추가하는 PR 열기 | 완료 | [수업 저장소 PR #9](https://github.com/yijisoo/kaist.biz.69911.projects/pull/9)가 열렸고 병합까지 완료됐습니다. |
+
+### 개인 커밋 확인
+
+| 팀원 | GitHub 계정 | main 반영 근거 |
+|---|---|---|
+| 양진석 | `wlstjr5817-cyber` | [개인 파일 커밋 b4bc76c](https://github.com/wlstjr5817-cyber/kaist-team07-project/commit/b4bc76c1eb3b8b8cbfc4ef3eb5265e6403d32f42) |
+| 류대훈 | `daehoon-ryu` | [PR #1 병합 완료](https://github.com/wlstjr5817-cyber/kaist-team07-project/pull/1) |
+| 김한솜 | `cottoneee10` | [개인 파일 커밋 1d9dc7d](https://github.com/wlstjr5817-cyber/kaist-team07-project/commit/1d9dc7d0d08eb31834d6c9be51db3af509eaa16c) |
+| 우승현 | 확인 필요 | 현재 확인한 이력은 소유자의 초기 업로드입니다. 본인 계정의 커밋이 필요합니다. |
+
+본인 계정의 커밋 여부와 상담 후 내용 수정 여부는 별도입니다. 류대훈의 확인된 변경은 작성일 옆 커밋 표시 추가이고, 김한솜의 확인된 변경은 파일 끝 빈 줄 추가이므로, 이 이력만으로 상담 피드백을 반영했다고 보지는 않습니다.
+
+### 남은 작업 순서
+
+1. 팀이 상담 피드백과 실제 변경 결정을 정리합니다. [QUESTIONS.md](docs/QUESTIONS.md)의 **After the consultation** 표에 들은 내용·할 일·담당자·기한을 기록하고, 관련 문서와 **Revision log**를 갱신합니다.
+2. 우승현이 자신의 GitHub 계정으로 [개인 프리모텀](docs/premortem/Premortem_우승현.md)을 검토·수정하고 커밋합니다. 파일의 독립 작성 여부 `[yes / no]`도 본인이 확인해 채웁니다.
+3. 모든 개인 커밋이 팀 저장소에 반영된 뒤, 소유자 양진석이 [종합 프리모텀](docs/PREMORTEM.md)을 검토·수정하고 자신의 계정으로 커밋합니다.
+4. 이 체크리스트를 실제 완료 상태에 맞게 갱신합니다.
+
+직접 수정 권한이 있으면 팀 저장소에서 커밋할 수 있습니다. 권한이 없으면 본인 계정으로 Fork → 개인 파일 수정·커밋 → 팀 저장소에 PR을 보내고, 소유자가 작성자 이력을 유지해 병합하면 됩니다. 소유자가 대신 업로드한 파일은 해당 팀원의 본인 계정 커밋을 대신하지 않습니다.
+
